@@ -1,0 +1,1 @@
+Sprites of emojis

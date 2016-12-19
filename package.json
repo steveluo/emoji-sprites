@@ -1,0 +1,14 @@
+{
+  "name": "emoji-sprites",
+  "version": "1.0.0",
+  "description": "emoji sprites, google, apple, emojione and twitter",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "steve@pmease.com",
+  "license": "Apache",
+  "devDependencies": {
+  },
+  "dependencies": {
+  }
+}
